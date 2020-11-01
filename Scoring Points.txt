@@ -1,0 +1,11 @@
+Scoring Points:
+
+Points are scored after the end of each hand.
+Players count up the amount of Hearts cards they've won during the hand, with each Hearts card they have netting them one point.
+A special case is the Queen of Spades, which nets the player 13 points instead.
+
+Another special case is known as Shooting the Moon, in which a player has won all 13 Hearts cards and the Queen of Spades in their pile.
+If a player has Shot the Moon, that player earns no points while everyone else earns an additional 26 points.
+
+If a player reaches or goes over the amount of points set at the beginning, then the game ends with the player with the lowest number of points at that time winning.
+If a player does not reach or goes over the amount of points set at the beginning, then the cards are reshuffled and dealt out again, with a new Hand starting once again.

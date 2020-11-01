@@ -1,0 +1,12 @@
+Passing Cards:
+
+At the beginning of each Hand (the amount of time it takes to play all 13 cards), you will be given an opportunity to pass three of your 13 cards to someone else.
+You are allowed to pass whatever cards you have.
+Depending on the round number, the person you pass your three cards to will be different.
+
+In the first round, players will pass the cards to the person on their left.
+In the second round, players will pass the cards to the person on their right.
+In the third round, players will pass the cards to the person across from them.
+In the fourth round, players will not pass any cards.
+
+The cycle repeats until the game ends.

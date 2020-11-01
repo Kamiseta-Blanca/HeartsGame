@@ -1,0 +1,13 @@
+Tricks:
+
+A Trick (one round of play) starts off after passing cards.
+For the first Trick of a hand, the person with the Two of Clubs goes first, playing that card and the rest of the players following in a clockwise manner.
+Each player must follow the first card's suit whenever possible, though if you don't have a card with the suit necessary, you are allowed to play a card of any suit.
+
+The person that wins the Trick is the person that dealt the highest card of the first card's suit, adding the cards they've won to a separate pile before starting the next Trick.
+The cycle then repeats, with the winner placing a card of their choice into the middle.
+
+However, one cannot lead with Hearts until Hearts have been broken.
+Hearts can only be broken when a player is unable to follow the first card's suit and places a Hearts card in the middle.
+
+The cycle ends until all 13 cards in each players' deck have been played.

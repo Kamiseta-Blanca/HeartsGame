@@ -1,0 +1,10 @@
+Rules on how to play Hearts:
+Here are the sections of the rules:
+
+Overview
+Starting Off
+Passing Cards
+Tricks
+Scoring Points
+
+Please type which section of the rules you would like to read, otherwise, type "Exit".

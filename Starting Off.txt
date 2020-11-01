@@ -1,0 +1,15 @@
+Starting Off:
+
+There will be four players in this program available. They can either be CPUs or another player.
+
+You will be seated in this formation:
+
+                #1
+
+
+        #4               #2
+
+
+                #3
+
+Each player will have a total of 13 cards dealt to them, and there will be no Jokers. This is a normal Deck of 52 cards.

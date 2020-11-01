@@ -1,0 +1,4 @@
+Overview:
+
+The overall concept of Hearts is quite simple. The main objective of the game is to be the person with the lowest amount of points at the end of the game.
+You score points based on how many Hearts cards you win each hand, with the Queen of Spades netting you 13 points instead.
