@@ -1,1 +1,4 @@
 # HeartsGame
+
+Requirements: 
+- Java
